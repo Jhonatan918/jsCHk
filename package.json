@@ -4,7 +4,8 @@
   "description": "diversao so para baixinhos",
   "main": "index.js",
   "scripts": {
-    "test": "6for2"
+    "test": "6for2",
+    "start": "api.js"
   },
   "author": "CastroMS",
   "license": "ISC",
