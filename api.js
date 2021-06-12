@@ -28,7 +28,3 @@ app.get('/api', (req,res) => {
     }
     executar()
 })
-
-app.listen(8080,() => {
-    console.log('OK');
-})
